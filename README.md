@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/SarthakBora12">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=MS+in+IT+%26+Analytics+@+RIT;Data+Science+%7C+ML+%7C+Cloud+%7C+Visualization;Always+learning+new+things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=MS+in+IT+%26+Analytics+@+RIT;Data+Science+%7C+ML+%7C+Visualization;Always+learning+new+things&center=true&width=500&height=50">
   </a>
 </p>
 
