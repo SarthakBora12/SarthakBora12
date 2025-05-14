@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Bora</h1>
-<h3 align="center">Data Scientist | ML Engineer | Cloud Enthusiast</h3>
+<h3 align="center">Data Scientist | ML Engineer | Data Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/SarthakBora12">
