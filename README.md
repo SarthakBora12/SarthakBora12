@@ -12,8 +12,8 @@
 ### 🧠 About Me
 
 - 🎓 Pursuing **MS in Information Technology & Analytics** at **Rochester Institute of Technology (Jan 2023 – May 2025)**
-- 💼 Former **Data Analyst & ML Intern** at **SeisoTech Pvt. Ltd.**
-- 🌐 Former **Data Engineer Intern** at **StandardWings Technologies Pvt. Ltd.**
+- 💼 Former **Analytics Engineer** at **SeisoTech Pvt. Ltd.**
+- 🌐 Former **Data Analytics Intern** at **StandardWings Technologies Pvt. Ltd.**
 - 🔭 I’m currently working on **LLM-powered analytics tools** and **real-time data pipelines**
 - 📫 Reach me at: [sb8708@rit.edu](mailto:sb8708@rit.edu)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sarthakbora)
@@ -26,9 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 #### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -69,14 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SarthakBora12&show_icons=true&theme=radical" alt="Sarthak's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakBora12&theme=radical" alt="Sarthak's GitHub streak" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/SarthakBora12/SarthakBora12/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
