@@ -67,6 +67,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SarthakBora12&show_icons=true&theme=radical" alt="Sarthak's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakBora12&theme=radical" alt="Sarthak's GitHub streak" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divyank00&layout=compact&langs_count=8&theme=algolia"/>
+
 </p>
 
 ---
