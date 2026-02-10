@@ -12,7 +12,7 @@
 ### 🧠 About Me
 
 - 🎓 Pursuing **MS in Information Technology & Analytics** at **Rochester Institute of Technology (Jan 2023 – May 2025)**
-- 💼 Former **Analytics Engineer** at **SeisoTech Pvt. Ltd.**
+- 💼 Former **Data Scientist** at **SeisoTech Pvt. Ltd.**
 - 🌐 Former **Data Analytics Intern** at **StandardWings Technologies Pvt. Ltd.**
 - 🔭 I’m currently working on **LLM-powered analytics tools** and **real-time data pipelines**
 - 📫 Reach me at: [sb8708@rit.edu](mailto:sb8708@rit.edu)
