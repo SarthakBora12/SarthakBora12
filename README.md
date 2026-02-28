@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  🌐 <a href="https://sarthakbora12.github.io/" target="_blank">
+  🌐 <a href="https://sarthakbora12.github.io/sarthakbora.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
